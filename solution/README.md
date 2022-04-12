@@ -1,6 +1,6 @@
 # DWH Coding Challenge
 
-## docker command to run this application
+## Docker Command to Run This Application
 
 ```
 # build image docker
